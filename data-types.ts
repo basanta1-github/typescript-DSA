@@ -129,3 +129,24 @@ console.log(`
     My second language is ${programmingLanguages[1]}.
     My third language is ${programmingLanguages[2]}.
 `);
+
+// What will this print?
+
+const age1: number = 23;
+
+console.log(typeof age1);
+// number
+
+// And this?
+
+const studentName1 = "Basanta";
+
+console.log(typeof studentName1);
+// string
+
+// And this?
+
+const isGraduated1 = true;
+
+console.log(typeof isGraduated1);
+// boolean
